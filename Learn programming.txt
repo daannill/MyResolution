@@ -2,3 +2,5 @@ PHP
 - Laravel
 Javascript
 - React
+- Vue
+- Angular
