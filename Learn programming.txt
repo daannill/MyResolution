@@ -1,4 +1,6 @@
 PHP
 - Laravel
+- Code Igniter
 Javascript
 - React
+- Next.js
